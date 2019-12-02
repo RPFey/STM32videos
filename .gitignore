@@ -6,4 +6,6 @@
 !main.c
 !Makefile
 !TEMPLATE/*
+!my_function.c
+!my_function.h
 PREP/
