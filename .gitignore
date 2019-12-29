@@ -12,3 +12,5 @@ PREP/
 Untitled Folder/
 !analog.c
 !analog.h
+!usb_serial.c
+!usb_serial.h
